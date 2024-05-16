@@ -1,3 +1,13 @@
 textarea {
     min-height: 400px;
 }
+
+.email-container{
+    border-bottom-width: 2px;
+    border-bottom-style:solid ;
+    padding: 10px 10px;
+}
+
+.email-container .btn{
+    margin: 20px 20px;
+}
